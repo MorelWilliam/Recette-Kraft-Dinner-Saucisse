@@ -24,3 +24,5 @@ Ingédients
 6. Quand les saucisses sont cuites, ajouter les saucisses et les brocolis dans la casserole.
 7. Déguster !
 
+
+![ezgif.com-gif-maker](medias/ezgif.com-gif-maker)
