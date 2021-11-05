@@ -25,4 +25,4 @@ Ingédients
 7. Déguster !
 
 
-![ezgif.com-gif-maker](medias/ezgif.com-gif-maker)
+![ezgif.com-gif-maker](https://github.com/MorelWilliam/Recette-Kraft-Dinner-Saucisse/blob/main/medias/ezgif.com-gif-maker.gif)
