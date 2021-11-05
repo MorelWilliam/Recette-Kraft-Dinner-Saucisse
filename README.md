@@ -1,7 +1,7 @@
 # Recette-Kraft-Dinner-Saucisse
 
 
-	![alt text](macoroni.jpg)
+![Macaroni](medias/macoroni.jpg)
 
 ## Titre 1
 Ingédients
