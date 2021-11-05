@@ -1,7 +1,7 @@
 # Recette-Kraft-Dinner-Saucisse
 
 
-!.[macaroni-au-fromage-et-aux-saucisses].(medias/macaroni-au-fromage-et-aux-saucisses (1).jpg)
+!.[macaroni-au-fromage-et-aux-saucisses].(/medias/macaroni-au-fromage-et-aux-saucisses (1).jpg)
 
 ## Titre 1
 Ingédients
