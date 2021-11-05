@@ -4,7 +4,7 @@
 !.[macaroni-au-fromage-et-aux-saucisses].()
 
 ## Titre 1
-Ingédient
+Ingédients
 
 
 1. Pâte
